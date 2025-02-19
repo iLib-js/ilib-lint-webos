@@ -1,3 +1,7 @@
+
+> :warning: **Deprecation Notice** :warning:
+> This repository has been deprecated. Please use the corresponding package from the [ilib-mono-webos](https://github.com/iLib-js/ilib-mono-webos) instead.
+
 # ilib-lint-webos
 An ilib-lint plugin that provides the ability to parse webOS xliff files and provides rules to check .
 
